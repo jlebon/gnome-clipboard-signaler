@@ -1,0 +1,6 @@
+{
+  "name": "Clipboard Signaler",
+  "uuid": "clipboard-signaler@dev.local",
+  "description": "Emits D-Bus signals on clipboard changes",
+  "shell-version": ["46", "47", "48", "49"]
+}
